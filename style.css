@@ -32,10 +32,10 @@ h1 {
 }
 
 .btn {
-  position: absolute;
+  /* position: absolute;
   display: flex;
   align-items: left;
-  justify-content: left;
+  justify-content: left; */
   left: 50%;
   top: 40%;
   transform: translateX(-50%);
